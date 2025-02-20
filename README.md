@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!👋
 👋 Hello! Welcome to my GitHub!
 💻 Computer Engineering | 🎮 Beginner Game Dev | 🌍 Tech & Travel Enthusiast
 
