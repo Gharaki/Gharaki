@@ -1,28 +1,14 @@
 ## Hi there 👋
-👋 Olá! Bem-vindo ao meu GitHub!
-💻 Engenharia de Computação | 🎮 Game Dev Iniciante | 🌍 Entusiasta de Viagens e Tecnologia
+👋 Hello! Welcome to my GitHub!
+💻 Computer Engineering | 🎮 Beginner Game Dev | 🌍 Tech & Travel Enthusiast
 
-🚀 Atualmente, estou explorando desenvolvimento de jogos com Unity e aprimorando minhas habilidades em programação e modelagem.
-📚 Trabalhando em projetos acadêmicos, incluindo um site para viagens e turismo para terceira idade e um inventário de jogadores em CouchDB.
-🎧 Finalizando o MusicOn, um projeto interativo para busca e exibição de músicas.
+🚀 Currently exploring game development with Unity and improving my programming and modeling skills.
+📚 Working on academic projects, including a travel website for senior citizens and a player inventory system using CouchDB.
+🎧 Finalizing MusicOn, an interactive project for searching and displaying music.
 
-⚡ Sempre em busca de novos desafios e aprendizado!
+⚡ Always looking for new challenges and learning opportunities!
 
-💬 Me chama para trocar uma ideia sobre programação, games ou tecnologia!
---
---
-💻 About Me
-🎓 Computer Engineering Student
-🎮 Aspiring Game Developer
-🌍 Tech & Travel Enthusiast
-🚀 Current Projects
-🕹️ Exploring game development with Unity
-🎧 Finalizing MusicOn – an interactive music search platform
-🌐 Developing a travel website for senior citizens
-📝 Working on a player inventory system using CouchDB
-⚡ Let's Connect!
-Always eager to learn and take on new challenges!
-Open to discussions about programming, games, and tech.
+💬 Feel free to reach out to chat about programming, games, or technology!
 <!--
 **Gharaki/Gharaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
