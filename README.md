@@ -1,10 +1,9 @@
 ## Hello there!👋 原木
 👋 Hello! Welcome to my GitHub!
-💻 Computer Engineering | 🎮 Beginner Game Dev | 🌍 Tech & Travel Enthusiast
+💻 Computer Engineering | 🎮 Beginner Game Dev | 🌍 Tech Enthusiast
 
 🚀 Currently exploring game development with Unity and improving my programming and modeling skills.
 📚 Working on academic projects, including a travel website for senior citizens and a player inventory system using CouchDB.
-🎧 Finalizing MusicOn, an interactive project for searching and displaying music.
 
 ⚡ Always looking for new challenges and learning opportunities!
 
